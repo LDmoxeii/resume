@@ -1,0 +1,9 @@
+{
+  "accentColor": "#4870ac",
+  "enabledCssSnippets": [
+    "lapis-cv-serif",
+    "lapis-cv"
+  ],
+  "baseFontSize": 14,
+  "theme": "moonstone"
+}
