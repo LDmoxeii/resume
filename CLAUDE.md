@@ -13,7 +13,6 @@ This is a **resume creation toolkit** based on the LapisCV project by Bingyan St
 ### Resume Files
 - `template-cn.md` / `template-en.md`: Base templates for Chinese/English resumes
 - `resume-cn.md`: Current working resume file
-- `oldCV.md`: Previous resume version for reference
 
 ### Styling System
 - `.obsidian/snippets/lapis-cv.css`: Main theme with embedded Chinese fonts (SourceHanSansCN, JetBrainsMono)

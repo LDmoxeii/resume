@@ -1,0 +1,25 @@
+# Obsidian configuration files
+.obsidian/app.json
+.obsidian/workspace.json
+.obsidian/community-plugins.json
+.obsidian/plugins/
+
+# Backup files
+*-backup-*.md
+
+# Temporary files
+*.tmp.*
+*.temp
+.DS_Store
+
+# System files
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
